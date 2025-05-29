@@ -224,3 +224,16 @@ If something here made you smile, or if you’ve got your own desert journey (li
 ## ⚖️ License
 
 This project is licensed under the MIT License.
+
+---
+
+## 🧰 Bonus Resources (For the Strategists)
+
+Want to go a bit deeper? These tools are solo-friendly and easy to use:
+
+- [PvPoke Rankings](https://pvpoke.com/) — See what thrives in Great League
+- [Poké Steal or Deal](https://pokestealordeal.com/en) — Decide what’s worth keeping
+- [Stadium IV Rank Checker](https://www.stadiumgaming.gg/rank-checker) — Optimize your PvP stats
+- [Pokebattler](https://www.pokebattler.com/) — Plan for raids, even solo
+
+Totally optional. Totally helpful. Use what works for your style.
