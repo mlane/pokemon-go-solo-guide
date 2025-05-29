@@ -134,7 +134,7 @@ I'm pretty sure Groudon has gotta live in Tucson, right? Sharing my dream team b
 Also, here are some not-Pokémon: I went searching for a Tauros and found real cows.  
 That still counts.
 
-![Calf in the Wild](images/cow-and-calf.jpg)  
+![Calf in the Wild](images/calf-in-the-wild.jpg)  
 _Wrong Tauros, but she had the stats of a legend. Looked me dead in the eye and kept chewing._
 
 ![Chipmunk Lookout](images/squirrel.jpg)  
@@ -197,7 +197,7 @@ Pick the ones that speak to you — and feel free to add more as your journey gr
 This isn’t just about Pokémon.  
 It’s about how you move through the world. Quietly. Intentionally. Maybe without a clear path, but with just enough trust to follow curiosity.
 
-![Tucson Desert Landscape](images/tucson-landscape.png)  
+![Tucson Desert Landscape](images/tucson-landscape.jpg)  
 _No gyms. No PokéStops. Just space to think, and maybe catch a shadow in the dust._
 
 So if you find yourself out here — literally or emotionally — remember:
