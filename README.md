@@ -235,5 +235,6 @@ Want to go a bit deeper? These tools are solo-friendly and easy to use:
 - [Poké Steal or Deal](https://pokestealordeal.com/en) — Decide what’s worth keeping
 - [Stadium IV Rank Checker](https://www.stadiumgaming.gg/rank-checker) — Optimize your PvP stats
 - [Pokebattler](https://www.pokebattler.com/) — Plan for raids, even solo
+- [Regional Pokémon List](https://pokemongohub.net/post/guide/regional-pokemon-list/) — See what spawns where (like Comfey in Hawaii)
 
 Totally optional. Totally helpful. Use what works for your style.
