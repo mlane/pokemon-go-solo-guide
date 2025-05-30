@@ -127,9 +127,8 @@ No pressure. No metas. Just love.
 
 I'm pretty sure Groudon has gotta live in Tucson, right? Sharing my dream team below for fuel to keep me going.
 
-<!-- Dream Team Placeholder -->
-
-> _Dream Team image coming soon — still assembling the squad. No meta, just vibes._ >
+![Dream Team Vision Board](images/dream-team-goal.png)
+_A vision of the future. No meta, just vibes._
 
 Also, here are some not-Pokémon: I went searching for a Tauros and found real cows.  
 That still counts.
